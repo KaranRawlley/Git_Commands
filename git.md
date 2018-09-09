@@ -1,6 +1,6 @@
 ## developer commit/update   in its local repository and then push/pull to central repository
 
-#git remote add origin -- cmd to link remote repo with local repo
+# git remote add origin -- cmd to link remote repo with local repo
 
 # git pull origin master -- to fetch all th files from remote repo to local repo
 
@@ -26,7 +26,7 @@
 
 ## ssh-kegen (create a key)
 ## cat 
-##shh -T  git@github.com
+## shh -T  git@github.com
 
 # git push origin branchname
 
