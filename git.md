@@ -29,4 +29,6 @@
 
  git push origin branchname
 
- 
+ git config user.email  --> for checking commiting email
+ git config user.email " //enter email id here "   --> for changing user email 
+  
