@@ -14,7 +14,9 @@
  git commit -a -m ""  --> commits all files in one go
 	
  git log  --> 
+ 
  git branch branchname
+ 
  git checkout branchname
 
  git merge branchname 
